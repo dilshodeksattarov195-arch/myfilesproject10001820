@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorsncrypt",
+        "uuid": 10672480,
+        "checksum": "q83o2"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
